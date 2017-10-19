@@ -1,4 +1,6 @@
-#Initially clone
+# `.vim` configurations and plugins
+
+#Clone the repo and the submodules
 
 ```
 git clone git@github.com:zhengyuguo/dotvim.git --recursive
