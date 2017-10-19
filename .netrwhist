@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/py/linux/bin/xplat/src/skeleton/bashsk/bashskv/db/regular'
+let g:netrw_dirhist_2='/Users/py/dvcs_src/rexample/Rexample/cran/neuralnet/neuralnet/heterogeneity'
+let g:netrw_dirhist_3='/Users/py/Documents/wiki/website'
+let g:netrw_dirhist_4='/Users/py/linux/bin/xplat/src/RNAseq/RNAseqDataTransWCEPB/wcepccm/wcepccmAllSmplNrsh/R'

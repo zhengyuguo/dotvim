@@ -1,0 +1,66 @@
+[submodule "bundle-available/vim-scala"]
+	path = bundle-available/vim-scala
+	url = git@github.com:derekwyatt/vim-scala.git
+[submodule "vim-scala"]
+	path = vim-scala
+	url = git@github.com:derekwyatt/vim-scala.git
+[submodule "bundle-available/vim-racket"]
+	path = bundle-available/vim-racket
+	url = git@github.com:wlangstroth/vim-racket.git
+[submodule "bundle-available/vim-perl"]
+	path = bundle-available/vim-perl
+	url = git@github.com:vim-perl/vim-perl.git
+[submodule "bundle-available/vim-pandoc"]
+	path = bundle-available/vim-pandoc
+	url = git@github.com:vim-pandoc/vim-pandoc.git
+[submodule "bundle-available/vim-pandoc-syntax"]
+	path = bundle-available/vim-pandoc-syntax
+	url = git@github.com:vim-pandoc/vim-pandoc-syntax.git
+[submodule "bundle-available/vim-pandoc-after"]
+	path = bundle-available/vim-pandoc-after
+	url = git@github.com:vim-pandoc/vim-pandoc-after.git
+[submodule "bundle-available/vim-latex-suite"]
+	path = bundle-available/vim-latex-suite
+	url = git@github.com:gerw/vim-latex-suite.git
+[submodule "bundle-available/vim-jst"]
+	path = bundle-available/vim-jst
+	url = git@github.com:briancollins/vim-jst.git
+[submodule "bundle-available/vim-javascript"]
+	path = bundle-available/vim-javascript
+	url = git@github.com:pangloss/vim-javascript.git
+[submodule "bundle-available/vim-jade"]
+	path = bundle-available/vim-jade
+	url = git@github.com:digitaltoad/vim-jade.git
+[submodule "bundle-available/nerdtree"]
+	path = bundle-available/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
+[submodule "bundle-available/html5.vim"]
+	path = bundle-available/html5.vim
+	url = git@github.com:othree/html5.vim.git
+[submodule "bundle-available/csv.vim"]
+	path = bundle-available/csv.vim
+	url = git@github.com:chrisbra/csv.vim.git
+[submodule "bundle-available/cmake-vim"]
+	path = bundle-available/cmake-vim
+	url = git@github.com:jalcine/cmake.vim.git
+[submodule "bundle-available/Vim-R-plugin"]
+	path = bundle-available/Vim-R-plugin
+	url = git@github.com:jcfaria/Vim-R-plugin.git
+[submodule "bundle-available/RST-Tables"]
+	path = bundle-available/RST-Tables
+	url = git@github.com:vim-scripts/RST-Tables.git
+[submodule "bundle-available/LanguageTool"]
+	path = bundle-available/LanguageTool
+	url = git@github.com:vim-scripts/LanguageTool.git
+[submodule "bundle-available/vim-indent-guides"]
+	path = bundle-available/vim-indent-guides
+	url = git@github.com:nathanaelkane/vim-indent-guides.git
+[submodule "bundle-available/vim-cython"]
+	path = bundle-available/vim-cython
+	url = git@github.com:tshirtman/vim-cython.git
+[submodule "bundle-available/R-Vim-runtime"]
+	path = bundle-available/R-Vim-runtime
+	url = git@github.com:jalvesaq/R-Vim-runtime.git
+[submodule "bundle-available/MatlabFilesEdition"]
+	path = bundle-available/MatlabFilesEdition
+	url = git@github.com:vim-scripts/MatlabFilesEdition.git

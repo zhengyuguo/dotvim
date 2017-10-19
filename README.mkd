@@ -1,0 +1,16 @@
+#Initially clone
+
+```
+git clone git@github.com:zhengyuguo/dotvim.git --recursive
+```
+
+- Make the symlink of `.vimrc` to `~/.vimrc`.
+
+#Update all submodule
+
+Run
+
+~~~
+./update.sh
+~~~
+
